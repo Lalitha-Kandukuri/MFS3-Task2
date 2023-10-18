@@ -20,12 +20,12 @@ body {
     background: white;
     border-radius: 100%; 
     position: absolute;
-    top: 102px;
+    top: 132px;
     left: 40%; 
   }
   .moon-and-circle {
     position: absolute;
-    top: 100px; 
+    top: 130px; 
     left: 43%; 
     display: flex;
     flex-direction: row;
